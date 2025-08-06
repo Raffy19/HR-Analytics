@@ -1,9 +1,9 @@
-# 💼 HR Analytics Dashboard using SQL and Power BI
+# HR Analytics Dashboard using SQL and Power BI
 
-## 📌 Project Overview  
+## Project Overview  
 This project is a practice in data analysis using **SQL Server** and **Power BI**, based on an HR dataset with 2,845 rows and 26 columns. It focuses on understanding employee demographics, training effectiveness, performance, and resignation risk.
 
-## 🧰 Tools Used  
+## Tools Used  
 - **SQL Server** – For data cleaning, transformation, and analysis using SQL Views  
 - **Power BI** – For building interactive dashboards connected to SQL views
 
